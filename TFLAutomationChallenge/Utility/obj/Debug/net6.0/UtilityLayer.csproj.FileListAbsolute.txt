@@ -1,0 +1,24 @@
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\bin\Debug\net6.0\UtilityLayer.deps.json
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\bin\Debug\net6.0\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\bin\Debug\net6.0\UtilityLayer.pdb
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.csproj.AssemblyReference.cache
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.AssemblyInfoInputs.cache
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.AssemblyInfo.cs
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.csproj.CoreCompileInputs.cache
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\refint\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.pdb
+C:\Users\seuno\source\repos\TFLAutomationChallenge\Utility\obj\Debug\net6.0\ref\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\bin\Debug\net6.0\UtilityLayer.deps.json
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\bin\Debug\net6.0\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\bin\Debug\net6.0\UtilityLayer.pdb
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.csproj.AssemblyReference.cache
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.AssemblyInfoInputs.cache
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.AssemblyInfo.cs
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.csproj.CoreCompileInputs.cache
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\refint\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\UtilityLayer.pdb
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\Utility\obj\Debug\net6.0\ref\UtilityLayer.dll

@@ -1,0 +1,108 @@
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.7z
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.bz2
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.gz
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.tar
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.zip
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\document\empty.docx
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\document\empty.odt
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\document\empty.pdf
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\document\empty.rtf
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.avif
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.bmp
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.dds
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.dib
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.emf
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.exif
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.gif
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.heic
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.heif
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.ico
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.j2c
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jfif
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jp2
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jpc
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jpe
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jpg
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jxr
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.pbm
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.pcx
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.pgm
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.png
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.ppm
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.rle
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.tga
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.tif
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.wdp
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.webp
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.wmp
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\sheet\empty.ods
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\sheet\empty.xlsx
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\slide\empty.odp
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\slide\empty.pptx
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\UtilityLayer.pdb
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\Users\seuno\source\repos\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.7z
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.bz2
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.gz
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.tar
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\archive\empty.zip
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\document\empty.docx
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\document\empty.odt
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\document\empty.pdf
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\document\empty.rtf
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.avif
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.bmp
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.dds
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.dib
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.emf
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.exif
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.gif
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.heic
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.heif
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.ico
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.j2c
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jfif
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jp2
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jpc
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jpe
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jpg
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.jxr
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.pbm
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.pcx
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.pgm
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.png
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.ppm
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.rle
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.tga
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.tif
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.wdp
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.webp
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\image\empty.wmp
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\sheet\empty.ods
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\sheet\empty.xlsx
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\slide\empty.odp
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\EmptyFiles\slide\empty.pptx
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\UtilityLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\bin\Debug\net6.0\UtilityLayer.pdb
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\Users\seuno\source\repos\TFL Automation\AutomationChallenge\TFLAutomationChallenge\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll

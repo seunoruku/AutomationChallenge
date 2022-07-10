@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\ApplicationLayer\\ApplicationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectName": "ApplicationLayer",
+        "projectPath": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\ApplicationLayer\\ApplicationLayer.csproj",
+        "packagesPath": "C:\\Users\\seuno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\ApplicationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\seuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\Utility\\UtilityLayer.csproj": {
+                "projectPath": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\Utility\\UtilityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge.csproj",
+        "projectName": "TFLAutomationChallenge",
+        "projectPath": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge.csproj",
+        "packagesPath": "C:\\Users\\seuno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\TFLAutomationChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\seuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\ApplicationLayer\\ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\ApplicationLayer\\ApplicationLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Runners": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\Utility\\UtilityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\Utility\\UtilityLayer.csproj",
+        "projectName": "UtilityLayer",
+        "projectPath": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\Utility\\UtilityLayer.csproj",
+        "packagesPath": "C:\\Users\\seuno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seuno\\source\\repos\\TFL Automation\\AutomationChallenge\\TFLAutomationChallenge\\Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\seuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[103.0.5060.5300, )"
+            },
+            "Selenium.WebDriver.MicrosoftDriver": {
+              "target": "Package",
+              "version": "[17.17134.0, )"
+            },
+            "jose-jwt": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
